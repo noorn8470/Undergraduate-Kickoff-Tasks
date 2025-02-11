@@ -4,7 +4,6 @@ fn main() {
     println!("Guess the number!");   // Print a welcome message to the console.
 
     println!("Please input your guess.");  // Prompt the user to input their guess.
-    
     // `let` declares a variable.
     // `mut` makes the variable mutable (modifiable).
     // `String::new()` creates a new empty String instance.
